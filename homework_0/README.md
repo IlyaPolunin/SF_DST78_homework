@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# Homework 0. Игра: Угадай число
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_0/README.md#Описание-проекта)  
